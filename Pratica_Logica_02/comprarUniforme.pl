@@ -1,5 +1,7 @@
 % Felipe da Silva Gangorra - 121111084 - UFCG
 
+% Um grupo de colegas de trabalho decide providenciar a compra do uniforme de um setor da empresa. Com um determinado fornecedor eles conseguiram um desconto...
+
 % processar os pedidos
 processarPedidos(ValorCamisa, ContadorG, ContadorM, ContadorP, Total) :-
     read(Tamanho),

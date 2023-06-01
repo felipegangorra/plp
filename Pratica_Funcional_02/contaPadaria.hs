@@ -1,5 +1,8 @@
 -- Felipe da Silva Gangorra - 121111084 - UFCG
 
+-- Paulo foi em uma padaria e quer saber o valor da sua conta. Para ajudá-lo, faça um programa que receba a quantidade de itens consumidos, uma descrição dos itens e retorna o valor da conta.
+
+
 import Control.Monad
 
 -- define o valor de cada item possivel

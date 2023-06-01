@@ -1,5 +1,7 @@
 -- Felipe da Silva Gangorra - 121111084 - UFCG
 
+-- Maria é professora de matemática e gostaria de saber a quantidade de vezes que cada número é sorteado em uma lista de números aleatórios gerados por um programa de loteria.
+-- Ela deseja que você crie um programa em Haskell que recebe uma lista de números inteiros aleatórios e retorna a quantidade de vezes que cada número foi sorteado.
 
 frequencia :: [Int] -> [(Int, Int)] --gera tuplas com os elementos repetidos
 frequencia [] = [] --caso base

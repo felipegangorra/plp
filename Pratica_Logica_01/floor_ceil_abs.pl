@@ -1,5 +1,7 @@
 % Felipe da Silva Gangorra - 121111084 -  UFCG
 
+% Crie seu programa Prolog que implementa as funções floor, ceil e abs.
+
 % floor arredonda para baixo
 % ceil arredonda para cima
 % abs valor absoluto
